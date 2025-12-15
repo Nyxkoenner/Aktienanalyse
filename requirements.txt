@@ -1,0 +1,10 @@
+streamlit
+pandas
+yfinance
+matplotlib
+networkx
+feedparser
+transformers
+torch
+scikit-learn
+numpy
